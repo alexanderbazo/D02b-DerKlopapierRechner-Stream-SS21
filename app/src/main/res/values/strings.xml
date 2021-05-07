@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Der Klopapierrechner</string>
+    <string name="app_title">Wie lange reicht mein Klopapier?</string>
+    <string name="app_description">Wie lange reicht mein Klopapier noch? Gib die Anzahl deiner Rollen an und sag uns, wie viele Leute bei dir wohnen. Wir berechnen dann,  wann du wieder nach Klopapier ausschauen solltest.</string>
+    <string name="roll_input_text_default">1</string>
+    <string name="roll_input_elements_description">Anzahl der Rollen</string>
+    <string name="person_input_elements_description">Anzahl der Personen im Haushalt</string>
+    <string name="calculate_stats_button_label">Wie lange reicht der Vorrat?</string>
+</resources>
